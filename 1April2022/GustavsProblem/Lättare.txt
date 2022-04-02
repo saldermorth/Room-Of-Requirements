@@ -1,0 +1,6 @@
+Lättare problemet:
+Skapa en metod som kollar om ett ord är ett anagram av ett annat.
+Dvs att orden består av samma bokstäver i samma antal. Metoden ska 
+ignorera om bokstäverna är stora eller små. "B" == "b" = true.
+metoden ska returnera true om orden är anagram av varandra. Annars
+false.
